@@ -90,8 +90,8 @@ small{color:#bca9bd}
 </main>
 
 <script>
-const SUPABASE_URL = "TU_PROJECT_URL";
-const SUPABASE_KEY = "TU_PUBLISHABLE_KEY";
+const SUPABASE_URL = "https://aixdfrfezwkdkostcjcl.supabase.co/rest/v1/";
+const SUPABASE_KEY = "sb_publishable_s7IDrF4dSatxFUD3miKvqQ_LUyJj9Oa";
 const BUCKET = "recuerdos";
 
 const db = supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
